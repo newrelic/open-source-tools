@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "template-nerdpack",
+    "name": "nr1-template-nerdpack",
     "description": "Nerdpack template",
     "version": "0.1.0",
     "scripts": {
@@ -11,6 +11,9 @@
     },
     "nr1": {
         "uuid": "00ab2d27-925b-4184-89d7-3182a4ca2303"
+    },
+    "bugs": {
+      "email": "opensource+nr1-template-nerdpack@newrelic.com"
     },
     "dependencies": {
         "prop-types": "^15.6.2",
