@@ -9,6 +9,11 @@ nr1-template-nerdpack uses the `PageView` events in New Relic to interrogate and
 ![Screenshot #1](screenshots/screenshot_01.png)
 ![Screenshot #2](screenshots/screenshot_02.png)
 
+## What problem(s) does this application solve?
+
+- Bullet point sentence giving the user a heads up about what to expect.
+- Second bullet focused on a paragraph that might be a good first draft for [developer.newrelic.com](https://developer.newrelic.com) to start from we chose to feature the application there.
+
 ## Open Source License
 
 This project is distributed under the [Apache 2 license](LICENSE).
