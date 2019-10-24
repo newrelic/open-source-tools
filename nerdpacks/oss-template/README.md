@@ -1,18 +1,21 @@
 # nr1-template-nerdpack
 
+> This template includes advice on how to craft a great README for your app. Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), and follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit).
+
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-template-nerdpack?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-template-nerdpack/badge.svg)](https://snyk.io/test/github/newrelic/nr1-template-nerdpack)
 
 ## Usage
 
-nr1-template-nerdpack uses the `PageView` events in New Relic to interrogate and categorize the performance of a web site. You can explore the performance of individual pages, and forecast how improving performance impacts KPIs like bounce rate and traffic. This analysis is based on moving individual browsing sessions from `Tolerated` and `Frustrated` into `Satisfied` (as defined by the [`apdex`](https://docs.newrelic.com/docs/apm/new-relic-apm/apdex/apdex-measure-user-satisfaction) value for a given New Relic Browser application).
+> Write one or two short paragraphs that describe what your Nerdpack does—and more importantly, why users should care. Avoid too much technical jargon: Your content should be understandable to someone who doesn't have much knowledge of New Relic's technologies. Include links, too, to New Relic docs or other Nerdpacks. 
+
+> For example:
+
+nr1-browser-analyzer uses the `PageView` events in New Relic to interrogate and categorize the performance of a web site. You can explore the performance of individual pages, and forecast how improving performance impacts KPIs like bounce rate and traffic. This analysis is based on moving individual browsing sessions from `Tolerated` and `Frustrated` into `Satisfied` (as defined by the [`apdex`](https://docs.newrelic.com/docs/apm/new-relic-apm/apdex/apdex-measure-user-satisfaction) value for a given New Relic Browser application).
+
+> You should also include at least one screenshot. Ensure you remove any sensitive data like NR-only tools, customer data, and sensitive data about our systems (for a full list, see [Docs site security guidelines for images](https://newrelic.jiveon.com/docs/DOC-8362) on Jive).
 
 ![Screenshot #1](screenshots/screenshot_01.png)
 ![Screenshot #2](screenshots/screenshot_02.png)
-
-## What problem(s) does this application solve?
-
-- Bullet point sentence giving the user a heads up about what to expect.
-- Second bullet focused on a paragraph that might be a good first draft for [developer.newrelic.com](https://developer.newrelic.com) to start from we chose to feature the application there.
 
 ## Open Source License
 
