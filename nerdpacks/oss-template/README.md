@@ -1,8 +1,10 @@
 # nr1-template-nerdpack
 
-> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Avoid editing the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections. This text is standard across all projects, and the only change you should make is to change the Community URL. 
+> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Avoid editing the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections. This text is standard across all projects, and the only change you should make in these sections is to the Explorer's Hub URL and the Contributing email alias.
 > 
-> Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), and follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
+> If you need advice creating your README, ping @hero in the [#documentation](https://newrelic.slack.com/messages/documentation) channel or contact the Open Source Office. 
+> 
+> Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), then follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
 
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-template-nerdpack?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-template-nerdpack/badge.svg)](https://snyk.io/test/github/newrelic/nr1-template-nerdpack)
 
@@ -40,7 +42,7 @@ You'll get the best possible data out of this application if you also:
 
 ## Getting started
 
-> Include a step-by-step procedure on how to get your app installed and deployed. 
+> Include a step-by-step procedure on how to get your app installed and deployed. The clone and deploy steps are similar across all apps. If your app has additional steps required to get started, include them here or in their own section.
 
 1. First, ensure that you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [NPM](https://www.npmjs.com/get-npm) installed. If you're unsure whether you have one or both of them installed, run the following command(s) (If you have them installed these commands will return a version number, if not, the commands won't be recognized):
 
@@ -96,6 +98,8 @@ https://discuss.newrelic.com/t/nr1-template-nerdpack
 Issues and enhancement requests can be submitted in the [Issues tab of this repository](../../issues). Please search for and review the existing open issues before submitting a new issue.
 
 # Contributing
+
+> Work with the Open Source Office to update the email alias below.
 
 Contributions are welcome (and if you submit a Enhancement Request, expect to be invited to contribute it yourself :grin:). Please review our [Contributors Guide](CONTRIBUTING.md).
 
