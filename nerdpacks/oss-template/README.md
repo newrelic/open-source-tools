@@ -1,6 +1,6 @@
 # nr1-template-nerdpack
 
-> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Avoid editing the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections. These are required by legal, and the only change you should make is to change the Community URL. 
+> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Avoid editing the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections. This text is standard across all projects, and the only change you should make is to change the Community URL. 
 > 
 > Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), and follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
 
