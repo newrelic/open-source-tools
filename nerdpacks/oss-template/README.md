@@ -1,13 +1,15 @@
 # nr1-template-nerdpack
 
-> This template includes advice on how to craft a great README for your app. Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), and follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit).
+> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Avoid editing the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections. These are required by legal, and the only change you should make is to change the Community URL. 
+> 
+> Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), and follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
 
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-template-nerdpack?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-template-nerdpack/badge.svg)](https://snyk.io/test/github/newrelic/nr1-template-nerdpack)
 
 ## Usage
 
 > Write one or two short paragraphs that describe what your Nerdpack does—and more importantly, why users should care. Avoid too much technical jargon: Your content should be understandable to someone who doesn't have much knowledge of New Relic's technologies. Include links, too, to New Relic docs or other Nerdpacks. 
-
+> 
 > For example:
 
 nr1-browser-analyzer uses the `PageView` events in New Relic to interrogate and categorize the performance of a web site. You can explore the performance of individual pages, and forecast how improving performance impacts KPIs like bounce rate and traffic. This analysis is based on moving individual browsing sessions from `Tolerated` and `Frustrated` into `Satisfied` (as defined by the [`apdex`](https://docs.newrelic.com/docs/apm/new-relic-apm/apdex/apdex-measure-user-satisfaction) value for a given New Relic Browser application).
@@ -24,7 +26,7 @@ This project is distributed under the [Apache 2 license](LICENSE).
 ## What do you need to make this work?
 
 > Describe any prerequisites for using your app. Esure your list is complete, and includes links to other New Relic features when necessary. 
-
+> 
 > For example:
 
 Required:
