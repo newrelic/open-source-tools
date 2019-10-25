@@ -1,6 +1,6 @@
 # nr1-template-nerdpack
 
-> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Avoid editing the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections. This text is standard across all projects, and the only change you should make in these sections is to the Explorer's Hub URL and the Contributing email alias.
+> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Don't change the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections, though. This text is standard across all projects, and the only change you should make in these sections is to the Explorer's Hub URL and the Contributing email alias.
 > 
 > If you need advice creating your README, ping @hero in the [#documentation](https://newrelic.slack.com/messages/documentation) channel or contact the Open Source Office. 
 > 
@@ -10,11 +10,11 @@
 
 ## Usage
 
-> Write one or two short paragraphs that describe what your Nerdpack does—and more importantly, why users should care. Avoid too much technical jargon: Your content should be understandable to someone who doesn't have much knowledge of New Relic's technologies. Include links, too, to New Relic docs or other Nerdpacks. 
+> Write one or two short paragraphs that describe what your Nerdpack does—and more importantly, why users should care. Avoid too much technical jargon: Your content should be understandable to someone who doesn't have much knowledge of New Relic's technologies. And include links to New Relic docs or other Nerdpacks. 
 > 
 > For example:
 
-nr1-browser-analyzer uses the `PageView` events in New Relic to interrogate and categorize the performance of a web site. You can explore the performance of individual pages, and forecast how improving performance impacts KPIs like bounce rate and traffic. This analysis is based on moving individual browsing sessions from `Tolerated` and `Frustrated` into `Satisfied` (as defined by the [`apdex`](https://docs.newrelic.com/docs/apm/new-relic-apm/apdex/apdex-measure-user-satisfaction) value for a given New Relic Browser application).
+This application analyzes your cloud environment, and figures out where you're wasting money on excess cloud capacity. The application compares the size of your instances to their utilization, and estimates how much you could save by optimizing the size.
 
 > You should also include at least one screenshot. Ensure you remove any sensitive data like NR-only tools, customer data, and sensitive data about our systems (for a full list, see [Docs site security guidelines for images](https://newrelic.jiveon.com/docs/DOC-8362) on Jive).
 
@@ -27,7 +27,7 @@ This project is distributed under the [Apache 2 license](LICENSE).
 
 ## What do you need to make this work?
 
-> Describe any prerequisites for using your app. Esure your list is complete, and includes links to other New Relic features when necessary. 
+> Describe any prerequisites for using your app. Ensure your list is complete, and includes links to other New Relic features when necessary. 
 > 
 > For example:
 
@@ -45,7 +45,6 @@ You'll get the best possible data out of this application if you also:
 > Include a step-by-step procedure on how to get your app installed and deployed. The clone and deploy steps are similar across all apps. If your app has additional steps required to get started, include them here or in their own section.
 
 1. First, ensure that you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [NPM](https://www.npmjs.com/get-npm) installed. If you're unsure whether you have one or both of them installed, run the following command(s) (If you have them installed these commands will return a version number, if not, the commands won't be recognized):
-
 ```bash
 git --version
 npm -v
