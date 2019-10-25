@@ -1,6 +1,6 @@
 # nr1-template-nerdpack
 
-> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. A few sections are standard across all projects; don't change their text except to customize the Explorer's Hub URL and the Contributing email alias (those sections are the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections).
+> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. A few sections are standard across all projects. Don't change the text of those sections, except to customize the Explorer's Hub URL and the Contributing email alias. Those sections are: "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing."
 > 
 > If you need advice creating your README, ping @hero in the [#documentation](https://newrelic.slack.com/messages/documentation) channel or contact the Open Source Office. 
 > 
