@@ -1,10 +1,10 @@
 # nr1-template-nerdpack
 
-> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. Don't change the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections, though. This text is standard across all projects, and the only change you should make in these sections is to the Explorer's Hub URL and the Contributing email alias.
+> This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. A few sections are standard across all projects; don't change their text except to customize the Explorer's Hub URL and the Contributing email alias (those sections are the "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing" sections).
 > 
 > If you need advice creating your README, ping @hero in the [#documentation](https://newrelic.slack.com/messages/documentation) channel or contact the Open Source Office. 
 > 
-> Before you publish, ensure you remove all the commments (the block quotes beginning with `>`), then follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
+> Before you publish, remove all the commments (the block quotes beginning with `>`), then follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
 
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-template-nerdpack?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-template-nerdpack/badge.svg)](https://snyk.io/test/github/newrelic/nr1-template-nerdpack)
 
@@ -16,7 +16,7 @@
 
 This application analyzes your cloud environment, and figures out where you're wasting money on excess cloud capacity. The application compares the size of your instances to their utilization, and estimates how much you could save by optimizing the size.
 
-> You should also include at least one screenshot. Ensure you remove any sensitive data like NR-only tools, customer data, and sensitive data about our systems (for a full list, see [Docs site security guidelines for images](https://newrelic.jiveon.com/docs/DOC-8362) on Jive).
+> You should also include at least one screenshot. Remove any sensitive data like customer data, NR-only tools, and system information like hostnames (for a full list, see [Docs site security guidelines for images](https://newrelic.jiveon.com/docs/DOC-8362) on Jive).
 
 ![Screenshot #1](screenshots/screenshot_01.png)
 ![Screenshot #2](screenshots/screenshot_02.png)
@@ -27,7 +27,7 @@ This project is distributed under the [Apache 2 license](LICENSE).
 
 ## What do you need to make this work?
 
-> Describe any prerequisites for using your app. Ensure your list is complete, and includes links to other New Relic features when necessary. 
+> Give a complete list of prerequisites for using your app, and include links to other New Relic features when necessary. 
 > 
 > For example:
 
