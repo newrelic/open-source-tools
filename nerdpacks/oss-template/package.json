@@ -13,7 +13,7 @@
         "uuid": "00ab2d27-925b-4184-89d7-3182a4ca2303"
     },
     "bugs": {
-      "email": "opensource+nr1-template-nerdpack@newrelic.com"
+        "email": "opensource+nr1-template-nerdpack@newrelic.com"
     },
     "dependencies": {
         "prop-types": "^15.6.2",
@@ -27,5 +27,7 @@
     ],
     "devDependencies": {
         "@newrelic/eslint-plugin-newrelic": "^0.3.0",
+        "@semantic-release/changelog": "^3.0.5",
+        "@semantic-release/git": "^7.0.18"
     }
 }
