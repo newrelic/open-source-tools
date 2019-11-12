@@ -27,4 +27,4 @@ For more information about CLAs, please check out Alex Russell’s excellent pos
 
 ## Slack
 
-For contributors and maintainers of open source projects hosted by New Relic, we host a public Slack with a channel dedicated to this project. If you are contributing to this project, you're welcome to request access to that  community space.
+For contributors and maintainers of open source projects hosted by New Relic, we host a public Slack with a channel dedicated to this project. If you are contributing to this project, you're welcome to request access to that community space.
