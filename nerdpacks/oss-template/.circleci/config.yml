@@ -193,7 +193,7 @@ commands:
       - run:
           name: "Install OSS CLI"
           command: |
-            sudo npm install -g @newrelic/osscli
+            sudo npm install -g @newrelic/newrelic-oss-cli
             
   # TO DO - Replace command-validate-nerdpack-schema and command-validate-opensource-files with the oss-cli
   # This will allow us to make changes at-will vs. updating dozens of config.yml's
