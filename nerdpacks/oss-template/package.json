@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "nr1-template-nerdpack",
+    "name": "{{ NERDPACK_NAME }}",
     "description": "Nerdpack template",
     "version": "0.1.0",
     "scripts": {
@@ -13,7 +13,7 @@
         "uuid": "00ab2d27-925b-4184-89d7-3182a4ca2303"
     },
     "bugs": {
-        "email": "opensource+nr1-template-nerdpack@newrelic.com"
+        "email": "opensource+{{ NERDPACK_NAME }}@newrelic.com"
     },
     "dependencies": {
         "prop-types": "^15.6.2",
