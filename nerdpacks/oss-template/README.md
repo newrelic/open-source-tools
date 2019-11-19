@@ -1,4 +1,4 @@
-# nr1-template-nerdpack
+# {{ NERDPACK_NAME }}
 
 > This template includes advice on how to craft a great README for your app. This template is just a starting point: feel free to change or add sections to suit your project. A few sections are standard across all projects. Don't change the text of those sections, except to customize the Explorer's Hub URL and the Contributing email alias. Those sections are: "Open Source License," "Support," "Community," "Issues / Enhancement Requests," and "Contributing."
 > 
@@ -6,7 +6,7 @@
 > 
 > Before you publish, remove all the commments (the block quotes beginning with `>`), then follow the [standard Nerdpack README review process](https://docs.google.com/document/d/1xUg1NnNJriC0mrUE1hqcHcs5dqzyLoSYE25qjwBaWQE/edit). 
 
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/nr1-template-nerdpack?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/nr1-template-nerdpack/badge.svg)](https://snyk.io/test/github/newrelic/nr1-template-nerdpack)
+![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/newrelic/{{ NERDPACK_NAME }}?include_prereleases&sort=semver) [![Snyk](https://snyk.io/test/github/newrelic/{{ NERDPACK_NAME }}/badge.svg)](https://snyk.io/test/github/newrelic/{{ NERDPACK_NAME }})
 
 ## Usage
 
@@ -53,8 +53,8 @@ npm -v
 3. Next, to clone this repository and run the code locally against your New Relic data, execute the following command:
 
 ```bash
-nr1 nerdpack:clone -r https://github.com/newrelic/nr1-template-nerdpack.git
-cd nr1-template-nerdpack
+nr1 nerdpack:clone -r https://github.com/newrelic/{{ NERDPACK_NAME }}.git
+cd {{ NERDPACK_NAME }}
 nr1 nerdpack:serve
 ```
 
@@ -89,7 +89,7 @@ We encourage you to bring your experiences and questions to the [Explorers Hub](
 
 New Relic hosts and moderates an online forum where customers can interact with New Relic employees as well as other customers to get help and share best practices. Like all official New Relic open source projects, there's a related Community topic in the New Relic Explorers Hub. You can find this project's topic/threads here:
 
-https://discuss.newrelic.com/t/nr1-template-nerdpack
+https://discuss.newrelic.com/t/{{ NERDPACK_NAME }}
 *(Note: URL subject to change before GA)*
 
 ## Issues / Enhancement Requests
@@ -102,4 +102,4 @@ Issues and enhancement requests can be submitted in the [Issues tab of this repo
 
 Contributions are welcome (and if you submit a Enhancement Request, expect to be invited to contribute it yourself :grin:). Please review our [Contributors Guide](CONTRIBUTING.md).
 
-Keep in mind that when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. If you'd like to execute our corporate CLA, or if you have any questions, please drop us an email at opensource+nr1-template-nerdpack@newrelic.com.
+Keep in mind that when you submit your pull request, you'll need to sign the CLA via the click-through using CLA-Assistant. If you'd like to execute our corporate CLA, or if you have any questions, please drop us an email at opensource+{{ NERDPACK_NAME }}@newrelic.com.
